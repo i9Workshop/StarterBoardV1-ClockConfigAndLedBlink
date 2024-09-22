@@ -1,1 +1,1 @@
-# StarterBoardV1-ClockConfigAndLedBlink
+# StarterBoardV1 - Clock Configuration and Led Blink
